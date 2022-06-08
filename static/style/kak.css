@@ -1,0 +1,30 @@
+.header{
+    font-size: 59px;
+    background-color: red;
+    border: solid;
+    margin: 10px 30px 0px 0px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+p{
+    font-size: 30px;
+}
+body{
+    background-color: cadetblue;
+    padding-left: 30px;
+}
+
+img{
+    border-radius: 30px;
+    border: solid;
+    height: 200px;
+    width: 200px;
+    float: right;
+    position: relative;
+    bottom: 100px;
+    right: 30px;
+}
+button{
+    margin: 0px 0px 0px 30px;
+}
